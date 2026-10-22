@@ -1,0 +1,31 @@
+HTTrack3.50-5 launched on Thu, 22 Oct 2026 11:18:06 at https://prospela.com/ +*.png +*.jpg +*.jpeg +*.gif +*.svg +*.webp +*.css +*.js +*.woff +*.woff2 +*.ttf +*.eot -*action=logout* -*wp-login.php*
+(winhttrack -qwC2t%Pns2u1%s%uN0%I0p3DaK0T60H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://prospela.com/ -O1 "C:\My Web Sites\Prospela website 2026" +*.png +*.jpg +*.jpeg +*.gif +*.svg +*.webp +*.css +*.js +*.woff +*.woff2 +*.ttf +*.eot -*action=logout* -*wp-login.php* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:18:20	Error: 	"Method Not Allowed" (405) at link https://prospela.com/xmlrpc.php (from https://prospela.com/)
+11:18:40	Warning: 	Moved Permanently for https://prospela.com/?p=15
+11:18:40	Warning: 	File has moved from https://prospela.com/?p=15 to https://prospela.com/about/
+11:18:41	Warning: 	Moved Permanently for https://prospela.com/?p=31
+11:18:41	Warning: 	File has moved from https://prospela.com/?p=31 to https://prospela.com/become-an-e-mentor/
+11:18:41	Warning: 	Moved Permanently for https://prospela.com/?p=47
+11:18:41	Warning: 	File has moved from https://prospela.com/?p=47 to https://prospela.com/sign-up-as-a-student/
+11:18:41	Warning: 	Moved Permanently for https://prospela.com/?p=21
+11:18:41	Warning: 	File has moved from https://prospela.com/?p=21 to https://prospela.com/become-a-partner-school-university/
+11:18:41	Warning: 	Moved Permanently for https://prospela.com/?p=17
+11:18:41	Warning: 	File has moved from https://prospela.com/?p=17 to https://prospela.com/become-a-partner-employer/
+11:18:41	Warning: 	Moved Permanently for https://prospela.com/?p=33
+11:18:41	Warning: 	File has moved from https://prospela.com/?p=33 to https://prospela.com/contact/
+11:18:41	Warning: 	Moved Permanently for https://prospela.com/?p=57
+11:18:41	Warning: 	File has moved from https://prospela.com/?p=57 to https://prospela.com/terms-of-use-safeguarding-policy/
+11:18:43	Error: 	"Forbidden" (403) at link https://embed.typeform.com/next/css/ (from https://embed.typeform.com/next/embed.js)
+11:18:43	Error: 	"Not Found" (404) at link https://prospela.com/to/ (from https://embed.typeform.com/next/embed.js)
+11:18:43	Error: 	"Not Found" (404) at link https://prospela.com/single-embed/ (from https://embed.typeform.com/next/embed.js)
+11:18:43	Warning: 	Moved Permanently for https://prospela.com/?p=45
+11:18:43	Warning: 	File has moved from https://prospela.com/?p=45 to https://prospela.com/privacy-policy/
+
+HTTrack Website Copier/3.50-5 mirror complete in 37 seconds : 121 links scanned, 106 files written (8980010 bytes overall) [5981486 bytes received at 161661 bytes/sec], 4762844 bytes transferred using HTTP compression in 37 files, ratio 18%, 12.4 requests per connection
+(4 errors, 16 warnings, 0 messages)
